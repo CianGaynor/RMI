@@ -1,3 +1,5 @@
+package Part1;
+
 import java.rmi.RemoteException;
 import java.util.Random;
 

@@ -1,3 +1,5 @@
+package Part1;
+
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.RemoteException;
